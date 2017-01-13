@@ -2,6 +2,9 @@
             ##With GUI
 
 
+using it to chat with another computer on local network 
+
+
 ##Build using Socket in Java:
  
 ##there exist 2 Backages 
