@@ -1,4 +1,4 @@
-#**Chating** program in **java-network**
+#**Chating** Desktop Application in **java-network**
             ##With GUI
 
 
